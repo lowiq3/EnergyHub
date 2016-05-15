@@ -1,6 +1,4 @@
-# EnergyHub
-
-Set Solver
+# Set Solver
 
 The problem at hand is to write a solver for the game of Set. In case you're not familiar with the game, you can find a tutorial here:
 
